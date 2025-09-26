@@ -37,16 +37,18 @@ Key parameters used in interpolation:
 - `s′` → warped distance  
 - `Ai` → asymmetry factor  
 - `τ` → tuning parameter (controls warping)  
-- `λ` → edge sensitivity control  
+- `λ` → edge sensitivity control
+- <img width="1071" height="580" alt="image" src="https://github.com/user-attachments/assets/cf14f9a1-ef7d-4038-8bb4-9ae732bbc577" />
+
 
 ➡️ Implemented **Warped Distance Bicubic Interpolation** for DSC.  
 
 ---
 
 ## 🖼️ Results  
-- **(A).Bilinear interpolation** → blurred edges, noise  
-- **(B).Bicubic interpolation** → sharper images, improved diagnostic quality
-- 
+- **Bilinear interpolation** → blurred edges, noise  
+- **Bicubic interpolation** → sharper images, improved diagnostic quality
+  <img width="954" height="383" alt="image" src="https://github.com/user-attachments/assets/3e182ace-ec06-4a89-a539-fc5ec3aab981" />
 
 ---
 
