@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+Time=55000 | Input FP=c0b00000 | ABS Output=40b00000
+Time=75000 | Input FP=40500000 | ABS Output=40500000
+Time=95000 | Input FP=80000000 | ABS Output=00000000
+Time=115000 | Input FP=42f70000 | ABS Output=42f70000
+$finish called at time : 315 ns : File "C:/Users/ASUS/OneDrive/Documents/DSC/DSC.srcs/sim_1/new/test_tb_0.v" Line 81
